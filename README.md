@@ -1,5 +1,4 @@
-# Binary-Classification-with-a-Bank-Dataset-Playground-Series---Season-5-Episode-8
-Competition hosted in kaggle august 2025
+
 Kaggle Playground Series S5E8 – Bank Term Deposit Prediction
 This repository contains my solution for the Kaggle Playground Series - Season 5, Episode 8 competition.
 The goal was to predict whether a client would subscribe to a bank term deposit, based on a synthetically generated dataset inspired by real-world banking data.
