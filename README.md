@@ -15,9 +15,9 @@ Start date: August 1, 2025
 End date: August 31, 2025
 
 My Results
-Date: August 10, 2025
+Date: August 12, 2025
 
-Rank: #50 out of 1,344 participants
+Rank: #24 out of 1,344 participants
 
 Score: 0.97716 (ROC AUC)
 
